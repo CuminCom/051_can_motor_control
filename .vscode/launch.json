@@ -29,7 +29,7 @@
 
             // Cortex-Debug 要知道去哪个目录找 JLinkGDBServerCL.exe。
             // 版本号（V956）随安装变化，升级 J-Link 后这里要跟着改。
-            "serverpath": "C:/Program Files (x86)/SEGGER/JLink",
+            "serverpath": "C:/Program Files (x86)/SEGGER/JLink/JLinkGDBServerCL.exe",
 
             // J-Link GDB Server 需要明确的目标器件名。
             // STM32F407IG 是 ST 的器件名，J-Link 内置器件表里有。
